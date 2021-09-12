@@ -1,3 +1,3 @@
 ## To Be Borrowed
 
-### This is the mobile user interface called "To Be Borrowed" application
+### To Be Borrowed is a user interface for the mobile-based application. This application is an e-Book application in which the user can borrow a book. Special price for the student
